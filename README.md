@@ -34,7 +34,7 @@ Here Is Live Version Of Bot  [Google Drive Uploader](http://telegram.dog/koorana
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/chidochi/Gdrive-uploader.git
 
 
 
